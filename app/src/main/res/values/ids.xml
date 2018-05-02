@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="valor1" type="id" />
+    <item name="valor2" type="id" />
+    <item name="operador" type="id" />
+    <item name="resultado" type="id" />
+</resources>
